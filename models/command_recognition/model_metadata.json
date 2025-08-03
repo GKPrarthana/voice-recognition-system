@@ -1,0 +1,17 @@
+{
+  "class_names": [
+    "down",
+    "go",
+    "left",
+    "no",
+    "right",
+    "stop",
+    "up",
+    "yes"
+  ],
+  "input_shape": [
+    129,
+    125
+  ],
+  "model_type": "lstm"
+}
