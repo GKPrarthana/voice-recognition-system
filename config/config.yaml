@@ -1,0 +1,13 @@
+project_name: voice_recognition
+data:
+  raw_data_dir: data/raw/mini_speech_commands
+  processed_data_dir: data/processed
+model:
+  save_dir: models
+  model_name: lstm_voice_classifier
+logs:
+  log_dir: logs
+training:
+  batch_size: 64
+  validation_split: 0.2
+  epochs: 10
