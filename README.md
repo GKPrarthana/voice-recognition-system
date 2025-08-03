@@ -1,2 +1,3 @@
-# voice-recognition-system
-This project explores voice recognition using Long Short-Term Memory (LSTM) networks. The goal is to classify spoken commands from a dataset and implement a robust model using TensorFlow. 
+# Voice Recognition Project
+
+A deep learning project for classifying spoken commands using LSTM.
